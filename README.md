@@ -21,4 +21,4 @@ This is a simple static website built with HTML and CSS. It serves as a demonstr
 git clone https://github.com/yourusername/my-static-website.git
 ```
 
-Finally use the Website Deployment Script in CloudRay.
+Finally use the `Website Deployment Script` in CloudRay.
